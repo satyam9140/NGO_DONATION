@@ -1,0 +1,26 @@
+[
+  {
+    "id": "seed-donation-1",
+    "createdAt": "2026-07-01T10:30:00.000Z",
+    "amount": 5000,
+    "frequency": "one-time",
+    "ngoId": "brightroots",
+    "ngoName": "BrightRoots Foundation",
+    "causeId": "education",
+    "causeTitle": "Education & Literacy",
+    "donor": { "name": "Demo Donor", "email": "demo@example.com", "phone": "" },
+    "paymentStatus": "demo-recorded"
+  },
+  {
+    "id": "seed-donation-2",
+    "createdAt": "2026-07-02T12:10:00.000Z",
+    "amount": 10000,
+    "frequency": "monthly",
+    "ngoId": "healthhub",
+    "ngoName": "HealthHub India",
+    "causeId": "healthcare",
+    "causeTitle": "Healthcare Access",
+    "donor": { "name": "CSR Partner", "email": "csr@example.com", "phone": "" },
+    "paymentStatus": "demo-recorded"
+  }
+]

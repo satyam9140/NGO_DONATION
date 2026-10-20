@@ -1,0 +1,72 @@
+[
+  {
+    "id": "earthguard",
+    "name": "EarthGuard Collective",
+    "category": "Environment",
+    "location": "Dehradun, India",
+    "verified": true,
+    "funded": 86,
+    "raised": 1285000,
+    "goal": 1500000,
+    "beneficiaries": "18,400",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80",
+    "description": "Community-led water restoration, waste segregation, and climate resilience projects."
+  },
+  {
+    "id": "brightroots",
+    "name": "BrightRoots Foundation",
+    "category": "Education",
+    "location": "Jaipur, India",
+    "verified": true,
+    "funded": 94,
+    "raised": 940000,
+    "goal": 1000000,
+    "beneficiaries": "9,700",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80",
+    "description": "Bridge learning, school readiness, and digital access for first-generation learners."
+  },
+  {
+    "id": "healthhub",
+    "name": "HealthHub India",
+    "category": "Healthcare",
+    "location": "Bhopal, India",
+    "verified": true,
+    "funded": 68,
+    "raised": 680000,
+    "goal": 1000000,
+    "beneficiaries": "13,250",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=1200&q=80",
+    "description": "Mobile medical vans and preventive health camps for semi-urban communities."
+  },
+  {
+    "id": "shelterline",
+    "name": "ShelterLine Relief",
+    "category": "Disaster Relief",
+    "location": "Guwahati, India",
+    "verified": true,
+    "funded": 73,
+    "raised": 1095000,
+    "goal": 1500000,
+    "beneficiaries": "21,800",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1200&q=80",
+    "description": "Rapid response kits, emergency food, and rehabilitation for flood-affected families."
+  },
+  {
+    "id": "sashakt",
+    "name": "Sashakt Women Trust",
+    "category": "Women Empowerment",
+    "location": "Lucknow, India",
+    "verified": true,
+    "funded": 59,
+    "raised": 590000,
+    "goal": 1000000,
+    "beneficiaries": "6,900",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?auto=format&fit=crop&w=1200&q=80",
+    "description": "Skill training, self-help group support, legal awareness, and livelihood programs for women."
+  }
+]

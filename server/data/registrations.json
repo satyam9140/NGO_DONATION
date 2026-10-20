@@ -1,0 +1,20 @@
+[
+  {
+    "id": "seed-registration-1",
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "organizationName": "Community Rise Foundation",
+    "email": "team@communityrise.local",
+    "phone": "9999999999",
+    "city": "Pune, India",
+    "category": "Education",
+    "registrationNumber": "CRF-2026-01",
+    "programTitle": "After-school Learning Labs",
+    "programDescription": "Learning support for children from low-income communities.",
+    "fundingGoal": 800000,
+    "beneficiariesTarget": 1200,
+    "website": "",
+    "bankAccountName": "Community Rise Foundation",
+    "documentLink": "",
+    "status": "under-review"
+  }
+]
